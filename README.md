@@ -1,7 +1,7 @@
 - 👋 Hi, I’m om sawant 24
 - 👀 I’m interested in web Development .
-- 🌱 I’m currently learning python and scratch programming 
-- 💞️ I’m looking to collaborate on open source project on python 
+- 🌱 I have completed learning Scratch, Python, and C++.
+- 💞️ I’m looking to collaborate on open source project on python,c++ 
 - 📫 How to reach me from my gmail- 2024.omm@isu.ac.in
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: The name "Git" humorously means "silly person" in British slang, a playful jab by creator Linus Torvalds
